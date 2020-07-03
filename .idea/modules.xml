@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/shopping.iml" filepath="$PROJECT_DIR$/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping cart/shopping cart.iml" filepath="$PROJECT_DIR$/shopping cart/shopping cart.iml" />
+>>>>>>> f449388f00354b20820d7f9794e610dc87aa210e
     </modules>
   </component>
 </project>
